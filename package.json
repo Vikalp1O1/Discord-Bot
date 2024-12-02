@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "This the Discord bot ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vikalp",
+  "license": "ISC",
+  "dependencies": {
+    "@brandond/findthelyrics": "^2.0.5",
+    "discord.js": "^14.16.3",
+    "knock-knock-jokes": "^1.7.0",
+    "nodemon": "^3.1.7",
+    "random-jokes": "^2.0.3"
+  }
+}
